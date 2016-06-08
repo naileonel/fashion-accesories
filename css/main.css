@@ -1,0 +1,151 @@
+
+/*menu*/
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{
+	background-color: #BDBDBD;
+}
+.navbar-inverse {
+    background-color: #BDBDBD;;
+    border-color:#BDBDBD;
+}
+.navbar-inverse .navbar-nav > .active > a,{
+	color:#6E6E6E !important;
+	background-color: white !important;
+}
+
+.rojo{
+	background-color: rgb(169, 68, 66)!important;
+}
+.msg{
+	font-size: 15px;
+	color:#6E6E6E;
+}
+header{
+	padding-top: 3em;
+}
+
+.open{
+	width: 213px;
+	height: 70px;
+}
+/*section*/
+.bolso{
+	background-image: url('../images/slider1.jpg');
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	
+}
+.caja{
+	border:1em solid white;
+	color:white;
+	padding-top: 1em !important;
+	padding-bottom: 1em;
+	margin-top: 13em !important;
+}
+.blanco{
+	color:white;
+}
+.gorro{
+	width: 100px;
+	height: 100px;
+}
+.caja-blanca{
+	background-color:#E6E6E6 ;
+}
+.letra{
+	color:#6E6E6E;
+}
+.red{
+	color: #D90D0D;
+}
+button{
+	background-color: black !important;
+	color: white !important;
+}
+.ancho{
+	width: 125px;
+	height: 67px;
+}
+.mt-1{
+	margin-top: 1em;
+	margin-left: 1em;
+}
+.mt-3{
+	margin-top: 3em;
+}
+.imag{
+	
+width: 115%;
+}
+.ro{
+	background-color: #D90D0D !important;
+	border: 1px solid #D90D0D;
+}
+.negro{
+		border: 1px solid black;
+}
+.galery{
+	border: 1px solid #D8D8D8;
+	padding: 5px;
+}
+.tam{
+	width: 100%;
+}
+
+.fondo-2{
+	background-image: url('../images/client-bg.jpg');
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	
+}
+.mt-5{
+	margin-top: 7em;
+	margin-bottom: 8em;
+}
+.bla{
+	color: white !important;
+}
+footer{
+	background-color: #6E6E6E;
+}
+.back{
+	background-color: #E6E6E6 ;
+}
+.phone{
+	border:1px solid  #BDBDBD !important;
+}
+.largo{
+	font-size: 20px;
+}
+.largoo{
+	font-size: 20px;
+	margin-left: 2em;
+	margin-top: -1em;
+}
+.ml-2{
+	margin-left: 2em;
+}
+.visa{
+	margin-left: 15em;
+	margin-top: 5px;
+}
+/*contact-us*/
+.laptop{
+	background-image: url('../images/iStock_000018250503_Medium-1.jpg');
+	background-repeat: no-repeat;
+    opacity: 8;
+    filter: alpha(opacity=40); 
+}
+.size-40{
+	font-size: 80px;
+}
+.m-1{
+	margin-top: 1em;
+}
+.gray{
+	background-color:#848484 !important;
+	padding: 1em;
+	float: right;
+
+}
